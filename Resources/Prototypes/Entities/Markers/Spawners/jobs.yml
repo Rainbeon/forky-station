@@ -281,7 +281,7 @@
 - type: entity
   id: SpawnPointBorg
   parent: SpawnPointJobBase
-  name: cyborg
+  name: droid
   components:
   - type: SpawnPoint
     job_id: Borg

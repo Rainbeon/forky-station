@@ -192,7 +192,7 @@
   id: BorgChassisDerelict
   parent: BaseBorgChassisDerelict
   name: derelict droid
-  description: A machine that assists in station activity. This one is in a state of great disrepair.
+  description: A droid that assists in station activity. This one is in a state of great disrepair.
   components:
   - type: Sprite
     layers:
@@ -224,7 +224,7 @@
   parent: BaseBorgChassisDerelict
   id: EngineeringBorgChassisDerelict
   name: derelict engineer droid
-  description: A man-machine hybrid that assists the engineering department. This one seems to have chunks of strange crystals pockmarking its surface.
+  description: A droid that assists the engineering department. This one seems to have chunks of strange crystals pockmarking its surface.
   components:
   - type: Sprite
     layers:
@@ -254,7 +254,7 @@
   parent: BaseBorgChassisDerelict
   id: JanitorBorgChassisDerelict
   name: derelict janitor droid
-  description: A machine that assists the service department. It's a bigger mess than anything it can clean up.
+  description: A droid that assists the service department. It's a bigger mess than anything it can clean up.
   components:
   - type: Sprite
     layers:
@@ -288,7 +288,7 @@
   parent: BaseBorgChassisDerelict
   id: MedicalBorgChassisDerelict
   name: derelict medical droid
-  description: A machine that assists the medical department. This one's needles don't look very sanitary.
+  description: A droid that assists the medical department. This one's needles don't look very sanitary.
   components:
   - type: Sprite
     layers:
@@ -329,7 +329,7 @@
   parent: BaseBorgChassisDerelict
   id: MiningBorgChassisDerelict
   name: derelict salvage droid
-  description: A machine that assists the cargo department. This one has seen the wrong side of a gibtonite chunk.
+  description: A droid that assists the cargo department. This one has seen the wrong side of a gibtonite chunk.
   components:
   - type: Sprite
     layers:

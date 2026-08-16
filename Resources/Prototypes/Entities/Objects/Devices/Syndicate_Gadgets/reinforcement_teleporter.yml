@@ -103,8 +103,8 @@
 - type: entity
   parent: ReinforcementRadio
   id: ReinforcementRadioSyndicateCyborgAssault # Reinforcement radio exclusive to nukeops uplink
-  name: syndicate assault cyborg reinforcement radio
-  description: Call in a well armed assault cyborg, instantly!
+  name: syndicate assault droid reinforcement radio
+  description: Call in a well armed assault droid, instantly!
   suffix: NukeOps
   components:
     - type: GhostRole

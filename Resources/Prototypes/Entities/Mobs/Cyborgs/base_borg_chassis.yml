@@ -2,7 +2,7 @@
   parent: [BaseMob, StripableInventoryBase]
   id: BaseBorgChassisNotIonStormable
   name: droid
-  description: A machine that assists in station activity. It seems like its watching you...
+  description: A droid that assists in station activity. It seems like its watching you...
   save: false
   abstract: true
   components:
