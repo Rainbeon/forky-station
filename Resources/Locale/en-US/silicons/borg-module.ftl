@@ -1,15 +1,15 @@
 borg-module-fit = This module fits into {$types}.
 
-borg-type-all = [color=white]any droid[/color]
-borg-type-salvage = [color= #d6b328]salvage droids[/color]
-borg-type-engineer = [color= #ff9900]engineer droids[/color]
-borg-type-generic = [color= #666680]generic droids[/color]
-borg-type-janitor = [color= #a747c0]janitor droids[/color]
-borg-type-medical = [color= #5995ba]medical droids[/color]
-borg-type-service = [color= #508242]service droids[/color]
+borg-type-all = [color=white]any automa[/color]
+borg-type-salvage = [color= #d6b328]salvage automi[/color]
+borg-type-engineer = [color= #ff9900]engineer automi[/color]
+borg-type-generic = [color= #666680]generic automi[/color]
+borg-type-janitor = [color= #a747c0]janitor automi[/color]
+borg-type-medical = [color= #5995ba]medical automi[/color]
+borg-type-service = [color= #508242]service automi[/color]
 
-borg-type-syndicate = [color= #962023]syndicate droids[/color]
-borg-type-syndicate-assault = [color= #680a0d]syndicate assault droids[/color]
+borg-type-syndicate = [color= #962023]syndicate automi[/color]
+borg-type-syndicate-assault = [color= #680a0d]syndicate assault automi[/color]
 
 xenoborg-type-all = [color= #3d94ff]any xenoborg[/color]
 xenoborg-type-engi = [color= #edd45b]engi xenoborgs[/color]
