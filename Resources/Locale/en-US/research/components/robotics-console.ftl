@@ -1,5 +1,5 @@
 robotics-console-window-title = Robotics Console
-robotics-console-no-cyborgs = No Automi!
+robotics-console-no-cyborgs = No Automas!
 
 robotics-console-select-cyborg = Select an automa above.
 robotics-console-model = [color=gray]Model:[/color] {$name}
