@@ -281,7 +281,7 @@
 - type: entity
   id: SpawnPointBorg
   parent: SpawnPointJobBase
-  name: droid
+  name: automa # Funky
   components:
   - type: SpawnPoint
     job_id: Borg

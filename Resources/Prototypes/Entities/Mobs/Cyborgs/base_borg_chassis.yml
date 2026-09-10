@@ -1,8 +1,8 @@
 - type: entity
   parent: [BaseMob, StripableInventoryBase]
   id: BaseBorgChassisNotIonStormable
-  name: droid
-  description: A droid that assists in station activity. It seems like its watching you...
+  name: automa
+  description: An automa that assists in station activity. It seems like it's watching you...
   save: false
   abstract: true
   components:
@@ -82,7 +82,7 @@
   - type: EmagSiliconLaw
     stunTime: 5
   - type: SiliconLawProvider
-    laws: NTStandard
+    laws: NTStandard # Funky: New Lawset
   - type: Inventory
     templateId: borg
   - type: Hands

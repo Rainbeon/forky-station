@@ -2,7 +2,7 @@
   parent: BaseItem
   id: MMI
   name: man-machine interface
-  description: A machine able to facilitate communication between a biological brain and electronics, enabling crew to continue to provide value after work-related incidents. Unfortunately, it only fits in simple machines.
+  description: A machine able to facilitate communication between a biological brain and electronics, enabling crew to continue to provide value after work-related incidents. Unfortunately, it only fits in simple machines. # Funky
   components:
   - type: Sprite
     sprite: _Funkystation/Objects/Specific/Robotics/mmi.rsi #Funky resprite
