@@ -12,14 +12,14 @@ uplink-emag-desc = "The business card of the syndicate", this hacking tool is ab
 uplink-radio-jammer-name = Radio Jammer
 uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated. Battery powered, so you might want to bring a spare.
 
-uplink-syndicate-weapon-module-name = Weapon Cyborg Module
-uplink-syndicate-weapon-module-desc = Upgrades a cyborg with both an energy dagger and a Viper pistol with self-replicating ammo reserves.
+uplink-syndicate-weapon-module-name = Weapon Droid Module
+uplink-syndicate-weapon-module-desc = Upgrades a droid with both an energy dagger and a Viper pistol with self-replicating ammo reserves.
 
 uplink-disposable-turret-name = Disposable Ballistic Turret
 uplink-disposable-turret-desc = Looks and functions like a normal electrical toolbox. Upon hitting the toolbox it will transform into a ballistic turret, theoretically shooting at anyone except members of the syndicate. Can be turned back into a toolbox using a screwdriver and repaired using a wrench.
 
-uplink-syndicate-martyr-module-name = Martyr Cyborg Module
-uplink-syndicate-martyr-module-desc = Turn your emagged borg friend into a walking bomb with just this module. Make sure they're loyal to your cause, results may vary.
+uplink-syndicate-martyr-module-name = Martyr Droid Module
+uplink-syndicate-martyr-module-desc = Turn your emagged droid friend into a walking bomb with just this module. Make sure they're loyal to your cause, results may vary.
 
 uplink-soap-name = Soap
 uplink-soap-desc = An untrustworthy bar of soap. Smells of fear.
